@@ -5,7 +5,7 @@ $config['server'] = array(
     //监听的端口
     'port' => '9505',
     //WebSocket的URL地址，供浏览器使用的
-    'url' => 'ws://42.120.4.50:9505',
+    'url' => 'ws://127.0.0.1:9505',
     'origin' => 'http://coollive.labake.cn',
 );
 
