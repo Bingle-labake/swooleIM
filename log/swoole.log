@@ -1,0 +1,220 @@
+[2014-12-11 01:08:48]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 01:08:48]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 01:10:23]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 01:10:23]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-11 12:04:59]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-11 12:04:59]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:04:59]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-11 12:04:59]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-11 12:04:59]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:04:59]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-11 12:05:00]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-11 12:05:00]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:05:00]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-11 12:05:10]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-11 12:05:10]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-11 12:08:19]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-11 12:08:19]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-11 12:17:01]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:17:01]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:30:11]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:30:11]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:30:45]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-11 12:30:45]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-11 12:32:49]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:32:49]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:33:14]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-11 12:33:14]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-11 12:34:57]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 12:34:57]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 15:16:03]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-11 15:16:03]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-11 15:36:33]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-11 15:36:33]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-11 16:13:58]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-11 16:13:58]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-11 18:09:37]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-11 18:09:37]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-11 18:12:20]	WARN	swSocket_listen: Bind failed. type=1|host=0.0.0.0|port=9505. Error: Address already in use [98]
+[2014-12-11 18:12:20]	WARN	swServer_start_proxy: ReactorThread start failed
+[2014-12-11 18:13:12]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 18:13:12]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 22:19:08]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-11 22:19:08]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 10:47:25]	WARN	swSocket_listen: Bind failed. type=1|host=0.0.0.0|port=9505. Error: Address already in use [98]
+[2014-12-12 10:47:25]	WARN	swServer_start_proxy: ReactorThread start failed
+[2014-12-12 15:14:31]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:14:31]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:24:19]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:24:19]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:28:34]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:28:34]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:41:35]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:41:35]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:43:50]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:43:50]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:47:34]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 15:47:34]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 16:10:49]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-12 16:10:49]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-12 17:00:52]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-12 17:00:52]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-12 17:04:40]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-12 17:04:40]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-12 17:18:21]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-12 17:18:21]	WARN	swReactorThread_send: Connection[fd=36] is not exists.
+[2014-12-12 17:20:34]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 17:20:34]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-12 17:20:45]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-12 17:20:45]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-12 17:24:40]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-12 17:24:40]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-12 17:26:54]	WARN	swReactorThread_send: Connection[fd=36] is not exists.
+[2014-12-12 17:54:59]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-12 17:54:59]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-12 18:18:37]	WARN	swReactorThread_send: Connection[fd=35] is not exists.
+[2014-12-12 18:21:03]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-12 18:21:03]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-12 18:22:21]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-12 18:22:21]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-15 10:55:03]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 10:55:03]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 11:38:00]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 11:38:00]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 11:39:17]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 11:39:17]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 11:39:27]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 11:39:27]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 13:46:20]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 13:46:20]	WARN	swFactoryProcess_end: can not close. Connection[38] not found.
+[2014-12-15 14:05:38]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 14:05:38]	WARN	swFactoryProcess_end: can not close. Connection[38] not found.
+[2014-12-15 14:10:41]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-15 14:10:41]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-15 14:17:22]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-15 14:17:22]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-15 14:31:58]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-15 14:31:58]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-15 14:40:12]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-15 14:40:12]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-15 14:41:12]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-15 14:41:12]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-15 14:52:16]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-15 14:52:16]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-15 15:22:44]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 15:22:44]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 16:01:52]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 16:01:52]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 16:28:15]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 16:28:15]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 16:29:25]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 16:29:25]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 17:37:34]	WARN	swReactorThread_send: Connection[fd=36] is not exists.
+[2014-12-15 17:42:27]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:42:27]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:43:04]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 17:43:04]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 17:43:05]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:43:05]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:43:33]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 17:43:33]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 17:43:33]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:43:34]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:43:34]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:45:07]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:45:42]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:45:42]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:45:57]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 17:45:57]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 17:45:57]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:45:58]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:45:58]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:46:01]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:46:34]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:46:34]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:47:18]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:47:25]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:48:10]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:48:27]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:48:27]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:48:31]	WARN	swReactorThread_send: Connection[fd=36] is not exists.
+[2014-12-15 17:48:31]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:48:32]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:48:32]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:48:35]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:48:52]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:48:52]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:49:17]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:49:20]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:54:36]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:57:49]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:57:49]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:58:02]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 17:58:02]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 17:58:02]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:58:03]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:58:03]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:58:10]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-15 17:58:10]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-15 17:58:10]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:58:10]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:58:10]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:58:17]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:58:46]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 17:59:03]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-15 18:09:04]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-15 18:09:04]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-15 18:31:57]	WARN	swFactoryProcess_finish: connection[38] not found.
+[2014-12-16 00:33:18]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-16 00:33:18]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-16 10:42:51]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-16 10:42:51]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-16 10:43:04]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-16 10:43:04]	WARN	swReactorThread_send: Connection[fd=36] is not exists.
+[2014-12-16 10:47:46]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-16 10:47:46]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-16 10:47:57]	WARN	swReactorThread_send: Connection[fd=36] is not exists.
+[2014-12-16 10:48:22]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-16 10:48:22]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-16 10:58:51]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-16 10:58:51]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-16 11:12:53]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-16 11:12:53]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-17 15:11:27]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-17 15:11:27]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-18 11:47:03]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-18 11:47:03]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-24 13:44:49]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-24 13:44:49]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-24 15:06:05]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-24 15:06:05]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-24 16:49:17]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-24 16:49:17]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-24 16:50:01]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-24 16:50:01]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-24 16:56:55]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-24 16:56:55]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-24 17:01:41]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-24 17:01:41]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-24 17:10:48]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-24 17:10:48]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-24 17:16:01]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-24 17:16:01]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-24 17:16:18]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-24 17:16:18]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-24 17:16:34]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-24 17:16:34]	WARN	swFactoryProcess_end: can not close. Connection[37] not found.
+[2014-12-24 17:22:16]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-24 17:22:16]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-24 17:22:17]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-24 17:22:17]	WARN	swFactoryProcess_end: can not close. Connection[36] not found.
+[2014-12-24 17:42:39]	WARN	swFactoryProcess_finish: connection[35] not found.
+[2014-12-24 17:42:39]	WARN	swFactoryProcess_end: can not close. Connection[35] not found.
+[2014-12-24 18:08:04]	WARN	swReactorThread_send: Connection[fd=40] is not exists.
+[2014-12-24 18:28:53]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-24 18:28:53]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-24 18:28:53]	WARN	swFactoryProcess_finish: connection[39] not found.
+[2014-12-24 18:28:53]	WARN	swFactoryProcess_finish: connection[40] not found.
+[2014-12-27 18:44:01]	WARN	swFactoryProcess_finish: connection[37] not found.
+[2014-12-27 19:33:59]	WARN	swFactoryProcess_finish: connection[36] not found.
+[2014-12-27 19:33:59]	WARN	swFactoryProcess_finish: connection[40] not found.
